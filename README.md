@@ -25,7 +25,7 @@ Please cite the following if you make use of the code.
 ```
 @inproceedings{kim2021you,
   title={Look Who's Talking: Active Speaker Detection in the Wild},
-  author={Kim, You Jin and Heo, Hee-Soo Heo and Choe, Soyeon and Chung, Soo-Whan and Kwon, Yoohwan and Lee, Bong-Jin and Kwon, Youngki and Chung, Joon Son},
+  author={Kim, You Jin and Heo, Hee-Soo and Choe, Soyeon and Chung, Soo-Whan and Kwon, Yoohwan and Lee, Bong-Jin and Kwon, Youngki and Chung, Joon Son},
   booktitle={Interspeech},
   year={2021}
 }
