@@ -1,5 +1,10 @@
 # Look Who's Talking: Active Speaker Detection in the Wild
 
+### Paper
+- [Latest version (2021-08-17)](https://arxiv.org/abs/2108.07640)
+  - Statistics and reference performances of the dataset are changed, as the annotation are updated. 
+- [INTERSPEECH proceeding (2021-06-15)](https://www.isca-speech.org/archive/pdfs/interspeech_2021/kim21k_interspeech.pdf)
+
 ### Dependencies
 ```
 pip install -r requirements.txt
@@ -17,9 +22,6 @@ Run the following to convert the videos and visualise the labels.
 python3 run_convert.py --data_dir $DATA_DIR
 python3 run_visualize.py --data_dir $DATA_DIR
 ```
-
-### Paper
-- [Latest version (2021-08-17)](https://arxiv.org/abs/2108.07640)
 
 ### Citation
 
