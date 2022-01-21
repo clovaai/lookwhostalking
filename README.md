@@ -18,6 +18,9 @@ python3 run_convert.py --data_dir $DATA_DIR
 python3 run_visualize.py --data_dir $DATA_DIR
 ```
 
+### Paper
+- [Latest version (2021-08-17)](https://arxiv.org/abs/2108.07640)
+
 ### Citation
 
 Please cite the following if you make use of the code.
